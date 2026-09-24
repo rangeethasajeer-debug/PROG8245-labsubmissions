@@ -1,6 +1,9 @@
 data/requirements.txt
 .venv/
 venv/
+.env
+.env.*
+!.env.example
 
 # Jupyter-generated checkpoint folders
 .ipynb_checkpoints/

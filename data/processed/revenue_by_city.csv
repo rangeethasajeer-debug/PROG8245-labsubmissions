@@ -1,172 +1,172 @@
 country,shipping_city,orders,net_revenue
-Papua New Guinea,Port Moresby,3,15243368.78
-Costa Rica,San Jose,3,13203748.45
-Czech Republic,Prague,7,12542155.69
-Portugal,Lisbon,3,12424565.83
-South Africa,Pretoria,4,11755429.83
-Cuba,Havana,7,11514872.86
-Swaziland,Mbabane,5,11436090.16
-Georgia,Tbilisi,3,11208043.26
-Luxembourg,Luxembourg,6,10972092.26
-Tonga,Nuku'alofa,5,10919995.9
-Chad,N'Djamena,5,10759487.22
-United States of America,Washington,6,10420099.08
-Austria,Vienna,4,9862666.62
-Vietnam,Hanoi,4,8924252.64
-Greenland,Nuuk,6,8553654.78
-Turkey,Ankara,5,8541424.78
-Mozambique,Maputo,4,8378613.02
-Ghana,Accra,4,7942514.33
-Uzbekistan,Tashkent,4,7823406.59
-The Bahamas,Nassau,5,7574011.8
-Central African Republic,Bangui,5,7358122.02
-Moldova,Chisinau,5,7039583.1
-Equatorial Guinea,Ciudad de la Paz,4,6791088.49
-Germany,Berlin,3,6695275.43
-Yemen,Sanaa,4,6627689.84
-Poland,Warsaw,4,6227319.72
-Japan,Tokyo,4,6138539.17
-Liechtenstein,Vaduz,3,5987763.32
-Morocco,Rabat,2,5885228.94
-Armenia,Yerevan,4,5821903.07
-Sudan,Khartoum,5,5772544.51
-Ukraine,Kyiv,5,5764277.84
-Senegal,Dakar,2,5722729.77
-Estonia,Tallinn,4,5691020.56
-Libya,Tripoli,5,5673336.04
-Vanuatu,Port Vila,3,5659493.2
-Malawi,Lilongwe,5,5632962.24
-Lithuania,Vilnius,4,5618410.1
-Guinea,Conakry,3,5607284.88
-Hungary,Budapest,3,5595739.71
-Ireland,Dublin,3,5574616.88
-Lebanon,Beirut,2,5543226.55
-New Zealand,Wellington,3,5298541.71
-Romania,Bucharest,4,5274943.88
-Belarus,Minsk,4,5262358.12
-Belgium,Brussels,5,5225325.99
-Sweden,Stockholm,5,5223070.64
-Antigua and Barbuda,St. John's,3,5169281.09
-Honduras,Tegucigalpa,2,5147267.98
-Tunisia,Tunis,5,5136755.7
-India,New Delhi,4,5087647.44
+Papua New Guinea,Port Moresby,3,14857539.78
+Portugal,Lisbon,3,12362766.0
+Costa Rica,San Jose,3,12016462.38
+South Africa,Pretoria,4,11636730.03
+Czech Republic,Prague,7,11431262.67
+Georgia,Tbilisi,3,11205403.38
+Swaziland,Mbabane,5,11055206.43
+Luxembourg,Luxembourg,6,10605574.43
+Tonga,Nuku'alofa,5,10469142.85
+Cuba,Havana,7,10251245.11
+Chad,N'Djamena,5,10034131.75
+United States of America,Washington,6,9662195.15
+Austria,Vienna,4,8929754.75
+Vietnam,Hanoi,4,8527868.52
+Greenland,Nuuk,6,8388536.99
+Mozambique,Maputo,4,8035882.11
+Ghana,Accra,4,7830797.37
+Turkey,Ankara,5,7636352.97
+Uzbekistan,Tashkent,4,7631798.69
+The Bahamas,Nassau,5,6831432.61
+Moldova,Chisinau,5,6817206.92
+Central African Republic,Bangui,5,6455963.84
+Equatorial Guinea,Ciudad de la Paz,4,6429314.11
+Yemen,Sanaa,4,6341489.19
+Poland,Warsaw,4,6153037.27
+Germany,Berlin,3,5977091.81
+Morocco,Rabat,2,5873883.65
+Ireland,Dublin,3,5549678.3
+Japan,Tokyo,4,5530189.51
+Vanuatu,Port Vila,3,5510763.68
+Libya,Tripoli,5,5492899.52
+Sudan,Khartoum,5,5479997.15
+Liechtenstein,Vaduz,3,5389171.07
+Malawi,Lilongwe,5,5266529.76
+Estonia,Tallinn,4,5119047.56
+Armenia,Yerevan,4,5111546.7
+Ukraine,Kyiv,5,5100208.31
+Senegal,Dakar,2,5082477.03
 Panama,Panama City,2,5082173.28
-Qatar,Doha,3,5045610.55
-Zimbabwe,Harare,6,4919359.7
-Algeria,Algiers,3,4868870.46
-Gabon,Libreville,2,4801643.21
-Niger,Niamey,4,4764591.74
-Dominican Republic,Santo Domingo,3,4642156.27
-Serbia,Belgrade,2,4622538.22
-Albania,Tirana,3,4596865.27
-Italy,Rome,3,4437359.49
-Malaysia,Kuala Lumpur,4,4402772.55
-Cyprus,Nicosia,4,4303019.72
+Antigua and Barbuda,St. John's,3,5043310.79
+Belgium,Brussels,5,4993128.47
+Hungary,Budapest,3,4955977.21
+Lithuania,Vilnius,4,4952120.98
+Guinea,Conakry,3,4933523.29
+Qatar,Doha,3,4880497.48
+Sweden,Stockholm,5,4866392.1
+Lebanon,Beirut,2,4858859.37
+Romania,Bucharest,4,4779414.55
+Belarus,Minsk,4,4722772.58
+Honduras,Tegucigalpa,2,4698975.01
+Tunisia,Tunis,5,4666583.54
+New Zealand,Wellington,3,4645188.76
+Niger,Niamey,4,4580790.14
+India,New Delhi,4,4524693.97
+Gabon,Libreville,2,4414180.27
+Algeria,Algiers,3,4372714.75
+Zimbabwe,Harare,6,4351466.77
+Dominican Republic,Santo Domingo,3,4133427.9
 Greece,Athens,3,4131876.13
-Burundi,Gitega,2,4080829.88
-Belize,Belmopan,2,4067163.7
+Serbia,Belgrade,2,4108922.86
+Malaysia,Kuala Lumpur,4,4037353.22
 Lesotho,Maseru,2,4033724.07
-Syria,Damascus,1,4001600.76
-South Sudan,Juba,2,3969746.76
-Rwanda,Kigali,3,3956756.75
-East Timor,Dili,4,3845110.21
-Mauritania,Nouakchott,2,3797261.09
-Guinea-Bissau,Bissau,4,3763171.02
-Azerbaijan,Baku,1,3657195.36
-United Kingdom,London,3,3589120.13
-Bulgaria,Sofia,5,3548261.73
-Bhutan,Thimphu,2,3531541.99
-Angola,Luanda,3,3516228.8
-Malta,Valletta,1,3357958.32
-Iraq,Baghdad,2,3322684.84
-Mali,Bamako,4,3284938.37
-Bahrain,Manama,1,3219972.97
-Taiwan,Taipei,3,3166610.28
-Republic of the Congo,Brazzaville,3,3147466.81
-Turkmenistan,Ashgabat,1,3137609.52
-Iran,Tehran,3,3082310.88
-Finland,Helsinki,4,2895612.3
-North Korea,Pyongyang,2,2846009.71
-Djibouti,Djibouti,2,2821240.62
-Bangladesh,Dhaka,3,2818533.48
-Mongolia,Ulaanbaatar,4,2747060.29
-Israel,Jerusalem,7,2745111.39
-Jordan,Amman,4,2718373.17
-Tajikistan,Dushanbe,2,2686057.86
-Mauritius,Port Louis,4,2635679.2
-Democratic Republic of the Congo,Kinshasa,5,2633923.25
-Saint Kitts and Nevis,Basseterre,2,2613777.53
-Grenada,St. George's,4,2519674.14
-Thailand,Bangkok,3,2518377.34
-Switzerland,Bern,4,2409238.4
-Myanmar,Nay Pyi Taw,2,2407614.29
-Spain,Madrid,1,2381714.28
+Albania,Tirana,3,4024710.89
+Cyprus,Nicosia,4,3960380.63
+Italy,Rome,3,3956129.86
+Mauritania,Nouakchott,2,3756544.24
+Burundi,Gitega,2,3685775.96
+Belize,Belmopan,2,3584672.06
+Syria,Damascus,1,3501400.67
+South Sudan,Juba,2,3473528.42
+Rwanda,Kigali,3,3466184.55
+East Timor,Dili,4,3417525.84
+Guinea-Bissau,Bissau,4,3325747.5
+Bulgaria,Sofia,5,3305929.42
+Azerbaijan,Baku,1,3250840.32
+United Kingdom,London,3,3159509.1
+Bhutan,Thimphu,2,3133284.95
+Angola,Luanda,3,3125168.71
+Malta,Valletta,1,2984851.84
+Taiwan,Taipei,3,2936342.43
+Mali,Bamako,4,2919945.22
+Iraq,Baghdad,2,2913529.6
+Bahrain,Manama,1,2862198.19
+Republic of the Congo,Brazzaville,3,2815903.46
+Turkmenistan,Ashgabat,1,2788986.24
+Finland,Helsinki,4,2748482.46
+Bangladesh,Dhaka,3,2717515.2
+Mongolia,Ulaanbaatar,4,2701027.16
+Iran,Tehran,3,2697022.01
+Djibouti,Djibouti,2,2630291.18
+North Korea,Pyongyang,2,2529786.41
+Thailand,Bangkok,3,2491713.36
+Saint Kitts and Nevis,Basseterre,2,2465755.72
+Jordan,Amman,4,2460033.98
+Israel,Jerusalem,7,2459805.9
+Grenada,St. George's,4,2442873.81
+Mauritius,Port Louis,4,2396883.64
+Tajikistan,Dushanbe,2,2374094.21
 Somalia,Mogadishu,3,2373912.1
-Guatemala,Guatemala City,2,2295221.53
+Myanmar,Nay Pyi Taw,2,2372261.5
+Democratic Republic of the Congo,Kinshasa,5,2349823.83
 Brunei,Bandar Seri Begawan,1,2247229.84
-Andorra,Andorra la Vella,3,2237017.3
-Solomon Islands,Honiara,3,2086135.16
+Andorra,Andorra la Vella,3,2234170.3
+Switzerland,Bern,4,2159862.59
 Nicaragua,Managua,2,2085105.74
-Russia,Moscow,3,2075957.11
-Montenegro,Podgorica,5,2014678.64
-Slovenia,Ljubljana,2,1956872.03
-Burkina Faso,Ouagadougou,3,1934590.07
-Palau,Melekeok,3,1845222.33
-Benin,Porto-Novo,3,1730778.25
-Togo,Lome,2,1668502.35
-Macedonia,Skopje,2,1618052.08
-Liberia,Monrovia,3,1617597.27
-Philippines,Manila,2,1603811.54
-Singapore,Singapore,1,1545650.37
-Fiji,Suva,4,1474187.25
-Uganda,Kampala,3,1466742.46
-Kiribati,Tarawa,2,1465410.41
-Saint Lucia,Castries,3,1389669.56
-El Salvador,San Salvador,3,1365649.88
-Marshall Islands,Majuro,5,1351753.56
-Slovakia,Bratislava,2,1316361.15
-Eritrea,Asmara,3,1296566.66
-Iceland,Reykjavik,3,1289103.39
-Cape Verde,Praia,3,1281524.64
+Spain,Madrid,1,2084000.0
+Russia,Moscow,3,2041855.41
+Guatemala,Guatemala City,2,2040196.91
+Montenegro,Podgorica,5,1934915.17
+Solomon Islands,Honiara,3,1918319.7
+Palau,Melekeok,3,1773615.45
+Slovenia,Ljubljana,2,1760667.95
+Burkina Faso,Ouagadougou,3,1700230.81
+Togo,Lome,2,1635587.21
+Liberia,Monrovia,3,1612207.33
+Macedonia,Skopje,2,1598459.98
+Benin,Porto-Novo,3,1527443.8
+Philippines,Manila,2,1425610.26
+Fiji,Suva,4,1384213.29
+Singapore,Singapore,1,1373911.44
+Uganda,Kampala,3,1283399.66
+Kiribati,Tarawa,2,1282234.11
 Nepal,Kathmandu,1,1281162.96
-China,Beijing,4,1236658.53
-Afghanistan,Kabul,2,1181587.28
+El Salvador,San Salvador,3,1257293.43
+Marshall Islands,Majuro,5,1236028.32
+Saint Lucia,Castries,3,1217514.6
+Slovakia,Bratislava,2,1216761.36
+Eritrea,Asmara,3,1207622.17
+Iceland,Reykjavik,3,1149920.2
 Saudi Arabia,Riyadh,1,1143433.32
-Canada,Ottawa,3,1122426.94
-Sao Tome and Principe,Sao Tome,1,1105351.8
-South Korea,Seoul,3,1071389.71
-Nauru,Yaren,1,1036438.65
-Norway,Oslo,3,1030535.47
-Pakistan,Islamabad,2,1014198.79
-Kenya,Nairobi,2,975060.2
-Australia,Canberra,1,958792.41
-Tanzania,Dodoma,2,898040.26
+China,Beijing,4,1125947.37
+Cape Verde,Praia,3,1121334.06
+Canada,Ottawa,3,1065245.9
+Afghanistan,Kabul,2,1033888.87
+South Korea,Seoul,3,1001260.41
+Norway,Oslo,3,987006.51
+Kenya,Nairobi,2,970803.94
+Sao Tome and Principe,Sao Tome,1,967182.83
+Nauru,Yaren,1,921278.8
+Pakistan,Islamabad,2,897757.8
 Croatia,Zagreb,2,879495.94
-Trinidad and Tobago,Port of Spain,2,879221.08
-Comoros,Moroni,1,831622.03
-Botswana,Gaborone,1,795296.13
+Australia,Canberra,1,852259.92
+Tanzania,Dodoma,2,833301.93
+Trinidad and Tobago,Port of Spain,2,828473.71
 Mexico,Mexico City,1,790859.36
-Seychelles,Victoria,2,744701.57
+Comoros,Moroni,1,739219.58
+Seychelles,Victoria,2,726599.52
 Oman,Muscat,1,713921.82
 Vatican City,Vatican City,2,711810.08
-Jamaica,Kingston,2,645965.16
-Maldives,Male,2,638459.39
-Monaco,Monaco,1,605779.33
-United Arab Emirates,Abu Dhabi,2,573760.08
+Botswana,Gaborone,1,695884.11
+Maldives,Male,2,631618.63
+Jamaica,Kingston,2,611976.73
 Indonesia,Jakarta,1,540816.4
-Cote d'Ivoire,Yamoussoukro,1,529316.17
-Laos,Vientiane,2,468422.94
-Federated States of Micronesia,Palikir,2,389346.98
-Egypt,Cairo,1,382380.57
-Namibia,Windhoek,2,325006.91
+Monaco,Monaco,1,538470.51
+United Arab Emirates,Abu Dhabi,2,507247.26
+Cote d'Ivoire,Yamoussoukro,1,470503.26
+Laos,Vientiane,2,414737.87
+Federated States of Micronesia,Palikir,2,348441.12
+Egypt,Cairo,1,339893.84
 Tuvalu,Funafuti,1,319044.78
 Kazakhstan,Nur-Sultan,1,312885.3
+Namibia,Windhoek,2,305961.21
 Ethiopia,Addis Ababa,2,281251.62
-Denmark,Copenhagen,2,258939.4
-Cambodia,Phnom Penh,1,217106.08
+Denmark,Copenhagen,2,257046.14
+Cambodia,Phnom Penh,1,192983.18
 Nigeria,Abuja,1,131748.76
-Cameroon,Yaounde,1,85688.93
-Barbados,Bridgetown,1,81981.23
 Samoa,Apia,1,76386.72
-Madagascar,Antananarivo,1,64572.93
-Kyrgyzstan,Bishkek,1,10806.94
+Cameroon,Yaounde,1,76167.94
+Barbados,Bridgetown,1,72872.21
+Madagascar,Antananarivo,1,57398.16
+Kyrgyzstan,Bishkek,1,9606.17

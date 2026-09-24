@@ -1,0 +1,9 @@
+data/requirements.txt
+.venv/
+venv/
+
+# Jupyter-generated checkpoint folders
+.ipynb_checkpoints/
+
+# Files larger than 20 MB cannot be excluded by .gitignore alone.
+

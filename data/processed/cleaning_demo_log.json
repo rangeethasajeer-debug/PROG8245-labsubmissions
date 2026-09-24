@@ -1,0 +1,13 @@
+[
+  {
+    "case": "blank unit price",
+    "order_id": "686800706",
+    "original": "437.20",
+    "teaching_value": ""
+  },
+  {
+    "case": "duplicate row",
+    "order_id": "185941302",
+    "action": "append an exact copy of the second row"
+  }
+]
